@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suresh-kumar-53454b217/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Suresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suresh-kumar-53454b217/)](https://www.linkedin.com/in/aakash--01629954/)
 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/17941472/suresh-kumar)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Suresh-yellow)](https://stackoverflow.com/users/17941472/suresh-kumar)
 
 I'm
 Full Stack Solution Architect
